@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 
 <img alt="macOS" src="https://img.shields.io/badge/macOS-FFFFFF?style=for-the-badge&logo=macOS&logoColor=000000"/> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> <img alt="KDE" src="https://img.shields.io/badge/kde-1D99F3?style=for-the-badge&logo=kde&logoColor=FFFFFF"/> <img alt="Manjaro" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"/> <img alt="Pop!_OS" src="https://img.shields.io/badge/Pop!_OS-000000?style=for-the-badge&logo=Pop!_OS&logoColor=48B9C7"/> 
 
-
 ![Varunkumar-9's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Varunkumar-9&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
