@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/bejjenkivarun/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="varunkumarbejjenki@gmail.com"><img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png"></a>
+<a href="https://github.com/Varunkumar-9"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 
 ## ⚡ Skills
