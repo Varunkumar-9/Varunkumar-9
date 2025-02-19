@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on multiple projectsss
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to listen and Music Production
+- ⚡ Fun fact: I love to listen and Produce Music
 - 📫 Reach me: **varunkumarbejjenki@gmail.com**
 <!--
 - 👯 I’m looking to collaborate on ...
