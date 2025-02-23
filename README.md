@@ -7,7 +7,7 @@ Hi there 👋
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on multiple projectsss
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything. 🤣
 - ⚡ Fun fact: I love to Listen and Produce Music
 - 📫 Reach me: **varunkumarbejjenki@gmail.com**
 <!--
