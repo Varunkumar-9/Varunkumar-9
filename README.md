@@ -21,6 +21,21 @@ Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" w
 - ⚡ Fun fact: I love to Listen and Produce Music
 - 📫 Reach me: **varunkumarbejjenki@gmail.com**
 
+  ## Snake Game: Watch my contributions get eaten!
+
+<!-- 
+  This uses a <picture> tag so that if GitHub detects a dark theme, 
+  it will load your dark snake by default. If you don’t want a dark variant, 
+  you can just use a single <img> element.
+-->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Varunkumar-9/Varunkumar-9/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/Varunkumar-9/Varunkumar-9/blob/output/github-contribution-grid-snake.svg?short_path=faa2470" />
+  </picture>
+</p>
+
+
 ---
 
 ## 💬 Socials:
