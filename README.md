@@ -71,4 +71,5 @@ Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" w
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2plcTVoaHdiMWs1emNhZGZuZTE1bWY1cGhhZmtucTdqMmI5M3RpaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp3GUtG2waC88/giphy.gif" width="100" />
   <br>
   Thanks for stopping by, have an awesome day ahead!
+  
 </p>
