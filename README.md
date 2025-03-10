@@ -68,12 +68,13 @@ Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" w
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Varunkumar-9&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Varunkumar-09&theme=buddhism/>
 </p>
 
-<p align="center">
+<p align="right">
   <img src="https://github-profile-trophy.vercel.app/?username=Varunkumar-9&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15&margin-h=15"/>
 </p>
+
 
 ---
 
