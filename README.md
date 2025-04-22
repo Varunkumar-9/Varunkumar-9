@@ -19,7 +19,7 @@ Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" w
 - 🔭 I’m currently working on multiple projects
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to Listen and Produce Music
-- 📫 Reach me: **varunkumarbejjenki@gmail.com**
+<!-- - 📫 Reach me: **varunkumarbejjenki@gmail.com** -->
 
   ## Snake Game: Watch my contributions get eaten!
 
