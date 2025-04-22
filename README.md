@@ -36,9 +36,10 @@ Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" w
 
 ## 💬 Socials:
 <p>
-<a href="https://www.linkedin.com/in/bejjenkivarun/">
+<!--<a href="https://www.linkedin.com/in/bejjenkivarun/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+-->
 <a href="mailto:varunkumarbejjenki@gmail.com">
   <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png">
 </a>
