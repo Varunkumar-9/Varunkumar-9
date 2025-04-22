@@ -40,9 +40,9 @@ Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" w
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 -->
-<a href="mailto:varunkumarbejjenki@gmail.com">
+<!-- <a href="mailto:varunkumarbejjenki@gmail.com">
   <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_1x_r5.png">
-</a>
+</a> -->
 <a href="https://github.com/Varunkumar-9">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </a>
